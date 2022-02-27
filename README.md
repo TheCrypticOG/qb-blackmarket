@@ -1,5 +1,4 @@
-# qb-blackmarket
-[QBCORE] THE SIMPLEST BLACKMARKET SCRIPT USING QB-TARGET
+# [QBCORE] THE SIMPLEST BLACKMARKET SCRIPT USING QB-TARGET
 Dependencies:
 - qb-core 
 - qb-inventory or lj-inventory
